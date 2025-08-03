@@ -1,10 +1,9 @@
-torch==2.0.1
-torchvision==0.15.2
-gradio==4.25.0
-transformers
-diffusers
+torch
+torchvision
+gradio
+omegaconf
 opencv-python
-pillow
+numpy
+Pillow
 tqdm
 scipy
-numpy
