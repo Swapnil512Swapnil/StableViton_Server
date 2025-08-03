@@ -1,0 +1,10 @@
+torch==2.0.1
+torchvision==0.15.2
+gradio==4.25.0
+transformers
+diffusers
+opencv-python
+pillow
+tqdm
+scipy
+numpy
