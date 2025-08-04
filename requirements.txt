@@ -8,3 +8,4 @@ Pillow
 tqdm
 scipy
 einops
+pytorch-lightning
